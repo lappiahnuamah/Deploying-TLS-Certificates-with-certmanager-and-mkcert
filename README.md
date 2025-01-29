@@ -195,8 +195,8 @@ Certificate chain
 ```   
 ## 8. Troubleshooting
 Issue: Browser Shows "Not Secure" Warning
-# Ensure cert manager or mkcert is installed correctly by running:
-# Restart your browser and clear cache.
+Ensure cert manager or mkcert is installed correctly by running:
+Restart your browser and clear cache.
 
 ## Issue: Ingress Address Field is Empty
 Start Minikube tunnel:
