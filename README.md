@@ -3,7 +3,7 @@
 
 ## 1. Prerequisites
 Ensure you have the following installed on your system:
-- **Minikubebbbb** ([Installation Guide](https://minikube.sigs.k8s.io/docs/start/))
+- **Minikube** ([Installation Guide](https://minikube.sigs.k8s.io/docs/start/))
 - **Kubectl** ([Installation Guide](https://kubernetes.io/docs/tasks/tools/install-kubectl/))
 - **Nginx Ingress Controller**
 - **mkcert** for local SSL certificate generation
